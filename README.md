@@ -17,4 +17,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 This project is ** free to use **
 
-![preview img](/preview.png)
+![preview img](/preview.pn)
