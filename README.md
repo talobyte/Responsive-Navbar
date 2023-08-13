@@ -1,4 +1,4 @@
-# Create Responsive Navbar 
+# Responsive Navbar 
 ### BY TALO
 
 <a href="https://alphaotuken.github.io/Responsive-Navbar/"><strong>➥ Live Demo</strong></a>
